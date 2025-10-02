@@ -1,0 +1,7 @@
+header {
+  height: 50px;
+  margin: 0 auto;
+  background-color: lightgrey;
+  /*place-items: center;*/
+  text-align: center;
+}

@@ -1,21 +1,8 @@
 #root {
+  width: 100%;
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
   text-align: center;
-}
-
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
 @keyframes logo-spin {
@@ -41,11 +28,6 @@
   color: #888;
 }
 
-header {
-  margin: 0 auto;
-  text-align: center;
-}
-
 .input-box {
   padding: 10px;
   border: 1px;
@@ -63,10 +45,16 @@ header {
 button {
   width: 70px;
   height: 30px;
+  place-items: center;
 }
 
 .center-box {
   width: 20%;
   margin-left: 40%;
+}
+
+main {
+  background-color: lightcyan;
+  /*height: 100%;*/
 }
 
