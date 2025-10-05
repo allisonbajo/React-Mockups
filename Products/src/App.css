@@ -28,33 +28,8 @@
   color: #888;
 }
 
-.input-box {
-  padding: 10px;
-  border: 1px;
-  height: 20px;
-}
-
-.input-text {
-  width: 100%;
-}
-
-.input-number {
-  width: 25%;
-}
-
-button {
-  width: 70px;
-  height: 30px;
-  place-items: center;
-}
-
-.center-box {
-  width: 20%;
-  margin-left: 40%;
-}
-
 main {
-  background-color: lightcyan;
+  margin: 20px 0px;
+  background-color: white;
   /*height: 100%;*/
 }
-
